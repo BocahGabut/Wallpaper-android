@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083916480468",
+    "project_id": "cimarti-1557846702336",
+    "storage_bucket": "cimarti-1557846702336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083916480468:android:5fe19065cc7f32459bf041",
+        "android_client_info": {
+          "package_name": "com.bochgabut.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083916480468-skn5tojbt5769kf248a6pv1cdhjkhv51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bochgabut.wallpaper",
+            "certificate_hash": "eb61f99166cc9be3d890cecd139f6943f4ce460b"
+          }
+        },
+        {
+          "client_id": "1083916480468-bqvcqk2fshlkbi1vqm20gebaig5gujhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG4AqqyjGXXiYVC1U8Biss5EQ4wWs7eVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083916480468-bqvcqk2fshlkbi1vqm20gebaig5gujhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
